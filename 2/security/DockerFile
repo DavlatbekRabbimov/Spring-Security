@@ -1,0 +1,6 @@
+##Basic image, including JAVA 17
+#FROM openjdk:17-oracle
+#
+##App directory inner container
+#WORKDIR /security
+#
